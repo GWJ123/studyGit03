@@ -20,3 +20,4 @@ bug is ok
 dev 06
 dev 07...
 remote dev
+local dev
