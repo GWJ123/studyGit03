@@ -2,7 +2,6 @@ git is good
 git is very good
 git git git
 git hahaha
-<<<<<<< HEAD
 master..
 dev doing...
 test day1
@@ -15,6 +14,4 @@ dev01
 dev02
 dev 03
 dev 04
-=======
 bug ok
->>>>>>> bug
